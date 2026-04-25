@@ -1,0 +1,8 @@
+Algoritmo para hacer un jugo de limón:
+
+1. Inicio
+2. Lavar 2 limones
+3. Partir los limones por la mitad
+4. Exprimirlos en un vaso con agua
+5. Agregar azúcar y revolver
+6. Fin
