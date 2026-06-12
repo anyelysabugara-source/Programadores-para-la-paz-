@@ -1,0 +1,13 @@
+Esta semana aprendí que las rutas en Express funcionan como direcciones 
+dentro de un servidor. Cada ruta GET o POST responde a una solicitud específica.
+
+Entendí que GET sirve para consultar información y POST para enviar datos.
+La ruta POST /reporte me pareció muy útil porque simula cómo una comunidad
+puede enviar reportes de problemas reales.
+
+Antes no sabía que un servidor podía recibir mensajes y responder de forma
+automática. Ahora veo que las APIs ayudan a organizar la comunicación.
+
+Trabajar desde el celular fue un reto, pero comprendí mejor cómo funcionan
+las aplicaciones web. Programar también es pensar en soluciones para mi 
+comunidad y hacer que la información circule clara y ordenada.
