@@ -1,0 +1,10 @@
+¿Qué hace la ruta POST /reporte?
+Recibe datos en formato JSON desde el cliente usando req.body.mensaje y 
+responde con un JSON confirmando que el reporte fue recibido.
+
+Utilidad comunitaria:
+Esta ruta permite crear un sistema de reportes ciudadanos. Los miembros 
+de la comunidad pueden enviar alertas de fallas en alumbrado, daños en vías, 
+problemas de agua o solicitudes de ayuda. El servidor recibe y organiza 
+la información para que los líderes comunitarios la gestionen de forma 
+ordenada, en vez de perderla en grupos de WhatsApp.
