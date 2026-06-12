@@ -1,0 +1,15 @@
+1. Ruta GET /
+URL: http://localhost:3000/
+Respuesta: Muestra "Servidor activo" en el navegador
+
+2. Ruta GET /saludo  
+URL: http://localhost:3000/saludo
+Respuesta: Muestra "Hola comunidad" en el navegador
+
+3. Ruta GET /mensaje/:nombre
+URL: http://localhost:3000/mensaje/Ana
+Respuesta: Muestra "Hola Ana" - cambia el nombre según la URL
+
+4. Ruta POST /reporte
+Se prueba con Postman enviando JSON: {"mensaje": "Reporte de prueba"}
+Respuesta: JSON con estado "Reporte recibido" y el mensaje enviado
