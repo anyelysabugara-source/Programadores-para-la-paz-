@@ -1,0 +1,11 @@
+Reflexión: Importancia de las tecnologías abiertas en las comunidades
+
+Las tecnologías abiertas son herramientas, software y estándares cuyo código fuente es accesible para que cualquier persona pueda verlo, usarlo, modificarlo y compartirlo. Ejemplos claros son Linux, Firefox, WordPress y Node.js.
+
+Para las comunidades son importantes por 3 razones principales:
+
+1. **Acceso y economía**: No se pagan licencias. Una escuela, junta de acción comunal o emprendimiento puede usar software potente sin invertir miles de pesos. Esto cierra la brecha digital en zonas como Istmia, Chocó.
+
+2. **Autonomía**: Si usamos solo software privativo, dependemos 100% de la empresa que lo vende. Si suben el precio o cierran el servicio, la comunidad queda bloqueada. Con tecnologías abiertas la comunidad tiene control y puede adaptar la herramienta a sus propias necesidades.
+
+3. **Aprendizaje y colaboración**: Al tener el código abierto, los jóvenes de la comunidad
