@@ -1,0 +1,7 @@
+Comando POST:
+curl -X POST http://localhost:3000/reportes -H "Content-Type: application/json" -d @ejemplos-reportes.txt
+
+Comando GET:
+curl http://localhost:3000/reportes
+
+Resultado esperado GET: Se muestra un array [] con los 2 reportes registrados. Cada reporte tiene id, tipo y descripcion.
