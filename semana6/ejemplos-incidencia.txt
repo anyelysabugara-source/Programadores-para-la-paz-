@@ -1,0 +1,4 @@
+{
+  "tipo": "Alumbrado público",
+  "descripcion": "El poste de la carrera 70 no enciende desde hace una semana, la zona queda muy oscura en las noches."
+}
