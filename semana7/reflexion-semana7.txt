@@ -1,0 +1,10 @@
+Registrar reportes en una plataforma es clave para las comunidades.
+Permite que los ciudadanos reporten problemas rápido sin ir a oficinas.
+Con Arrays guardamos varios reportes en memoria para consultarlos después.
+GET sirve para ver todos los reportes que la gente ha enviado.
+POST sirve para que cualquier persona registre una nueva incidencia.
+express.json() es importante porque convierte los datos JSON que enviamos.
+Así las alcaldías pueden ver qué problemas hay en el barrio.
+Es más transparente porque todos pueden consultar los reportes.
+Ayuda a organizar mejor las soluciones de infraestructura y ambiente.
+La tecnología acerca a la comunidad con sus gobernantes.
