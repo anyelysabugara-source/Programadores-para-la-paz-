@@ -1,0 +1,7 @@
+Al enviar POST a http://localhost:3000/registro con:
+{ "nombre": "Ana", "mensaje": "Reporte desde celular" }
+
+El servidor responde:
+{ "estado": "Datos recibidos", "nombre": "Ana", "mensaje": "Reporte desde celular" }
+
+Esto demuestra que express.json() y req.body funcionan correctamente para recibir datos JSON.
