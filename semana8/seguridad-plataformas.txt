@@ -1,0 +1,11 @@
+5 prácticas de seguridad para plataformas comunitarias:
+
+1. No exponer datos personales: Ocultar cédulas, direcciones y teléfonos. Usar seudónimos o códigos como "Usuario-EST045".
+
+2. Proteger credenciales: Guardar contraseñas cifradas en la base de datos y exigir contraseñas fuertes al registrarse.
+
+3. Usar conexiones seguras: Implementar HTTPS para que la información viaje cifrada y nadie pueda interceptarla en redes públicas.
+
+4. Registrar accesos: Llevar un log de quién entra, desde qué IP y a qué hora. Sirve para detectar accesos sospechosos.
+
+5. Limitar acceso a información sensible: Crear roles y permisos. No todos los usuarios deben poder ver, editar o borrar datos de otros miembros.
