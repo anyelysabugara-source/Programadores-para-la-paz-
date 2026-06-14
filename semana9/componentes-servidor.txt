@@ -1,0 +1,9 @@
+1. Sistema operativo: Base que gestiona hardware. Ej: Linux. Controla memoria, CPU y red.
+
+2. Node.js: Entorno que ejecuta JavaScript fuera del navegador. Permite crear servidores con JS.
+
+3. Aplicación server.js: Nuestro código. Define las rutas / y /estado y qué responde cada una.
+
+4. Puerto: Número 3000 donde el servidor recibe peticiones. Es la "puerta" de entrada.
+
+5. Logs: Mensajes en consola como "Servidor ejecutándose en puerto 3000" que sirven para verificar que todo inició bien.
