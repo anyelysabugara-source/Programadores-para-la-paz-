@@ -1,0 +1,9 @@
+La seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos porque manejamos información de personas reales.
+
+Si una plataforma comunitaria es hackeada, se pueden filtrar datos personales, contraseñas y conversaciones privadas. Eso destruye la confianza y hace que nadie quiera participar más.
+
+Los procesos participativos dependen de que todos se sientan seguros para opinar y denunciar sin miedo. Si no hay protección, aparecen bots, perfiles falsos o ataques que manipulan las decisiones.
+
+Por eso es clave usar contraseñas fuertes, limitar permisos por roles, actualizar el sistema y cifrar la información con HTTPS.
+
+En conclusión, sin seguridad digital no hay participación real. Proteger la plataforma es proteger a las personas y garantizar que su voz sea escuchada de forma libre y responsable.
