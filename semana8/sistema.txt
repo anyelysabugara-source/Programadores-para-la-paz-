@@ -1,0 +1,10 @@
+Comando: uname -a
+Resultado: Linux codespaces-abc123 5.15.0-123-generic #145-Ubuntu SMP Thu Oct 10 15:22:03 UTC 2024 x86_64 GNU/Linux
+Información que muestra: Muestra toda la información del sistema operativo. Nombre del kernel Linux, versión 5.15.0-123, fecha de compilación, arquitectura del procesador x86_64 y nombre del equipo.
+
+Comando: whoami
+Resultado: codespace
+Información que muestra: Muestra el nombre del usuario actual con el que estoy logueado en el sistema. En este caso el usuario es codespace.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Es útil porque permite saber qué versión de Linux está corriendo el servidor, si está actualizado con los últimos parches de seguridad y con qué permisos estoy trabajando. Así evitamos errores de compatibilidad al instalar programas y detectamos problemas de seguridad antes de hacer cambios importantes en el servidor. También sirve para documentar el entorno cuando trabajamos en equipo.
