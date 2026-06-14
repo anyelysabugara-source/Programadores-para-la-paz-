@@ -1,0 +1,10 @@
+Comando: node server.js
+
+Qué ocurre: Node.js ejecuta el archivo y Express crea un servidor web que queda esperando peticiones.
+
+Mensaje en terminal: Servidor ejecutándose en puerto 3000
+
+Escuchar en puerto 3000: Significa que el servidor está activo y esperando conexiones en esa dirección específica.
+
+Ruta /estado: Al entrar a http://localhost:3000/estado el navegador muestra un JSON:
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}
