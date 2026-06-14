@@ -1,0 +1,15 @@
+Pregunta 1: ¿Qué es un servidor en una aplicación web?
+Respuesta: B. Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios
+Explicación: El servidor es el que procesa las peticiones y devuelve páginas, datos, etc.
+
+Pregunta 2: ¿Qué significa que un servidor escuche en un puerto?
+Respuesta: B. Que el servidor está esperando solicitudes en una dirección específica
+Explicación: El puerto es como la "puerta" donde el servidor espera conexiones, ej: puerto 3000
+
+Pregunta 3: ¿Cuál elemento es importante para la estabilidad?
+Respuesta: B. Monitorear ejecución y registrar errores
+Explicación: Los logs nos avisan si algo falla para arreglarlo rápido.
+
+Pregunta 4: ¿Qué son los logs en un servidor?
+Respuesta: A. Archivos que registran la actividad y eventos del sistema
+Explicación: Es como la bitácora del servidor, guarda todo lo que pasa.
