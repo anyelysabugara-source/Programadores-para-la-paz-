@@ -1,0 +1,11 @@
+Un servidor estable y seguro es vital para las comunidades porque garantiza que la plataforma esté disponible cuando se necesite.
+
+Si el servidor falla, las personas pierden acceso a información, clases o servicios importantes. Por eso el monitoreo constante es clave para detectar problemas antes.
+
+La seguridad protege datos personales. Un servidor vulnerable puede ser atacado y exponer información de toda la comunidad. Actualizar y usar contraseñas seguras es obligatorio.
+
+Los logs registran todo lo que pasa. Si hay error, ahí vemos qué falló y lo arreglamos rápido para que la comunidad no se afecte.
+
+Documentar el servidor ayuda a que cualquier persona pueda entenderlo y darle mantenimiento. Así el proyecto no depende de una sola persona.
+
+Sin estabilidad, seguridad y documentación, la comunidad no confía en la plataforma digital.
