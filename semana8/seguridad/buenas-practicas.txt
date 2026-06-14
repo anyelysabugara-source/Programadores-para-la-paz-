@@ -1,0 +1,7 @@
+3 prácticas básicas de seguridad digital:
+
+1. Proteger contraseñas: Usar contraseñas largas, únicas y con mayúsculas, minúsculas, números y símbolos. Ejemplo: Clave#Segura2026. No repetir en varias cuentas.
+
+2. No compartir credenciales: El usuario y la contraseña son personales. Nunca enviarlos por WhatsApp, correo o a desconocidos.
+
+3. Mantener software actualizado: Actualizar el sistema operativo, navegador y apps cierra huecos de seguridad que los hackers usan para entrar.
